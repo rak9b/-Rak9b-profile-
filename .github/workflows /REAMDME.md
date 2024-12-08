@@ -49,3 +49,5 @@ Collection of scripts and tools for efficient penetration testing, contributing 
 
 ### 📈 [Security Incident Analyzer](https://github.com/Rakib007/security-analyzer)
 Analyzes incident patterns and provides a streamlined dashboard for faster incident response and prevention.
+
+![snake gif](https://github.com/rak9b/Rak9b/blob/output/github-contribution-grid-snake.gif)
