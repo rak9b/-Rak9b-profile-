@@ -6,11 +6,28 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=FF6F61&center=true&vCenter=true&width=435&lines=Welcome+to+my+GitHub+Profile!;Let's+build+something+awesome+together!" alt="Typing SVG" />
 </p>
 
-<p align="center">
-![Profile Banner](https://media.giphy.com/media/a7jCRzDW5TH7vsIbYD/giphy.gif?cid=ecf05e47lmn4ypxutoj5qpv46r05chsgsjsmz3agvcouhb0q&ep=v1_gifs_search&rid=giphy.gif&ct=g)
-</p>
----
 
+![Profile Banner](https://media.giphy.com/media/a7jCRzDW5TH7vsIbYD/giphy.gif?cid=ecf05e47lmn4ypxutoj5qpv46r05chsgsjsmz3agvcouhb0q&ep=v1_gifs_search&rid=giphy.gif&ct=g)
+
+---
+<h2 align="center">🚀 About Me</h2>
+
+<p align="center">
+  I am a passionate <strong>Software Engineer in Test</strong> with expertise in ensuring software quality through automation and manual testing. As a <strong>Certified Ethical Hacker</strong>, I specialize in identifying and mitigating security vulnerabilities. I am also an active <strong>Bug Bounty Hunter</strong>, contributing to the security of various platforms by finding and reporting vulnerabilities. My goal is to bridge the gap between software quality and security, ensuring robust and secure applications.
+</p>
+
+<p align="center">
+  <img align="right" style="width:16rem; height:auto" src="https://raw.githubusercontent.com/Elanza-48/Elanza-48/41a4790484e268102dfdab2b7c59d440d3ffafab/resources/img/geek.gif"/>
+</p>
+
+- 🌱 I’m currently learning **Advanced Penetration Testing Techniques**.
+- 👯 I’m looking to collaborate on **Open Source Security Tools**.
+- 🤝 I’m looking for help with **AI-Driven Security Testing**.
+- 👨‍💻 All of my projects are available [@Mejbaur Bahar Fagun](https://github.com/fagunti).
+- 💬 Ask me about **Software Testing, Ethical Hacking, and Bug Bounty Hunting**.
+- ⚡ Fun fact: **I once found a critical vulnerability in a Fortune 500 company's system!**
+
+---
 Cyber Security Analyst specializing in **penetration testing** and **security architecture** with a dedication to protecting systems and data. Here, you'll find projects that span ethical hacking, threat analysis, and cutting-edge security solutions. I’m always eager to learn and collaborate with clients worldwide to enhance digital defenses.
 
 ---
@@ -60,35 +77,18 @@ Analyzes incident patterns and provides a streamlined dashboard for faster incid
  <summary> 😇 <b>My Github Stats</b>: </summary>
 
 
-
-
----
-
-<h2 align="center">🚀 About Me</h2>
-
-<p align="center">
-  I am a passionate <strong>Software Engineer in Test</strong> with expertise in ensuring software quality through automation and manual testing. As a <strong>Certified Ethical Hacker</strong>, I specialize in identifying and mitigating security vulnerabilities. I am also an active <strong>Bug Bounty Hunter</strong>, contributing to the security of various platforms by finding and reporting vulnerabilities. My goal is to bridge the gap between software quality and security, ensuring robust and secure applications.
-</p>
-
-<p align="center">
-  <img align="right" style="width:16rem; height:auto" src="https://raw.githubusercontent.com/Elanza-48/Elanza-48/41a4790484e268102dfdab2b7c59d440d3ffafab/resources/img/geek.gif"/>
-</p>
-
-- 🌱 I’m currently learning **Advanced Penetration Testing Techniques**.
-- 👯 I’m looking to collaborate on **Open Source Security Tools**.
-- 🤝 I’m looking for help with **AI-Driven Security Testing**.
-- 👨‍💻 All of my projects are available [@Mejbaur Bahar Fagun](https://github.com/fagunti).
-- 💬 Ask me about **Software Testing, Ethical Hacking, and Bug Bounty Hunting**.
-- ⚡ Fun fact: **I once found a critical vulnerability in a Fortune 500 company's system!**
-
----
-
 <h2 align="center">📊 GitHub Stats</h2>
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Rakib007007&show_icons=true&theme=radical" alt="Rakib007007's GitHub Stats" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Rakib007007&theme=radical" alt="Rakib007007's GitHub Streak" />
 </p>
+
+
+---
+
+
+
 
 <h2 align="center">💻 Top Languages</h2>
 
