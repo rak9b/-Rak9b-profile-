@@ -25,22 +25,26 @@
 
 🔍 Skilled in threat analysis, penetration testing, and security architecture to safeguard systems and data.
 
-🛠️ Experienced in front-end and back-end web development, utilizing my technical skills to enhance security implementations.
+🛠️ Experienced in front-end and back-end web development, utilizing my technical skills to enhance security 
+implementations.
 
 🏆 Passionate about ethical hacking, digital forensics, and vulnerability assessments.
-
 🎯 2025 & 2026 Goals
-
 🚀 2025: Advance in cybersecurity, refine my penetration testing skills, and actively contribute to security research.
 🎯 2026: Secure a role as a Cybersecurity Analyst or Penetration Tester, specializing in offensive security and digital defense.
 
 🌱 Learning & Collaboration
 
--💡 Constantly exploring advanced security frameworks, exploit development, and malware analysis.
+-💡 Constantly exploring advanced security frameworks, exploit development, and malware analysis. 
+
 -🤝 Excited to collaborate on **AI-Driven Security Testing** ,**open-source security** projects and contribute to the cybersecurity community.
+
 -👨‍💻 All of my projects are available [@Md.Rakibul Islam](https://github.com/rak9b).
+
 -💬 Ask me about Software Testing, Ethical Hacking, CTFs, Bug Bounties, Threat Intelligence, and SOC operations.
--⚡ Fun Fact: **I once found a critical vulnerability in a Fortune 500 company's system!** Before diving into cybersecurity, I managed an online gadget business, honing my client relations and time management skills—essential for success in fast-paced security environments!
+
+-⚡ Fun Fact: **I once found a critical vulnerability in a Fortune 500 company's system!** Before diving into 
+cybersecurity, I managed an online gadget business, honing my client relations and time management skills—essential for success in fast-paced security environments!
 
 
 ---
