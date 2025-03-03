@@ -1,6 +1,6 @@
 
-# <h1 align="center">Hi, I'm Mejbaur Bahar Fagun <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"></h1>
-<h3 align="center">Software Engineer in Test | Certified Ethical Hacker | Bug Bounty Hunter</h3>
+# <h1 align="center">Hi, I'm  Md.Rakibul Islam  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"></h1>
+<h3 align="center">Software Engineer in Test | Web Devoloper | Certified Ethical Hacker | Bug Bounty Hunter</h3>
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=FF6F61&center=true&vCenter=true&width=435&lines=Welcome+to+my+GitHub+Profile!;Let's+build+something+awesome+together!" alt="Typing SVG" />
@@ -62,7 +62,7 @@ cybersecurity, I managed an online gadget business, honing my client relations a
 
 | **Languages** | **Frontend** | **Backend** | **Database** |
 |--------------|-------------|------------|------------|
-| <img src="https://skillicons.dev/icons?i=python,javascript,cpp,java" alt="languages" /> | <img src="https://skillicons.dev/icons?i=html,css,react,tailwind,bootstrap" alt="frontend" /> | <img src="https://skillicons.dev/icons?i=django,docker" alt="backend" /> | <img src="https://skillicons.dev/icons?i=mysql,postgres,sqlite" alt="database" /> |
+| <img src="https://skillicons.dev/icons?i=python,javascript,cpp,java,bash,typscript" alt="languages" /> | <img src="https://skillicons.dev/icons?i=html,css,react,tailwind,bootstrap" alt="frontend" /> | <img src="https://skillicons.dev/icons?i=django,docker" alt="backend" /> | <img src="https://skillicons.dev/icons?i=mysql,postgres,sqlite" alt="database" /> |
 
 ### Collaboration & Productivity Tools
 ![GitHub](https://img.shields.io/badge/-GitHub-black?style=for-the-badge&logo=github&logoColor=white)
