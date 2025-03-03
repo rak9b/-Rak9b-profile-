@@ -1,5 +1,11 @@
 
-# Hi there, I'm Md Rakib007007ul Islam 👋
+# <h1 align="center">Hi, I'm Mejbaur Bahar Fagun <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"></h1>
+<h3 align="center">Software Engineer in Test | Certified Ethical Hacker | Bug Bounty Hunter</h3>
+
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=FF6F61&center=true&vCenter=true&width=435&lines=Welcome+to+my+GitHub+Profile!;Let's+build+something+awesome+together!" alt="Typing SVG" />
+</p>
+
 
 ![Profile Banner](https://media.giphy.com/media/a7jCRzDW5TH7vsIbYD/giphy.gif?cid=ecf05e47lmn4ypxutoj5qpv46r05chsgsjsmz3agvcouhb0q&ep=v1_gifs_search&rid=giphy.gif&ct=g)
 
@@ -53,19 +59,8 @@ Analyzes incident patterns and provides a streamlined dashboard for faster incid
 
  <summary> 😇 <b>My Github Stats</b>: </summary>
 
-<p align = "center">
-  <img src = "https://github-readme-stats.vercel.app/api?username=Rakib007007-Official&show_icons=true&theme=blue-green&layout=compact">
- 
-</p>
 
-</details>
 
-<h1 align="center">Hi, I'm Mejbaur Bahar Fagun <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"></h1>
-<h3 align="center">Software Engineer in Test | Certified Ethical Hacker | Bug Bounty Hunter</h3>
-
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=FF6F61&center=true&vCenter=true&width=435&lines=Welcome+to+my+GitHub+Profile!;Let's+build+something+awesome+together!" alt="Typing SVG" />
-</p>
 
 ---
 
