@@ -8,19 +8,17 @@
 </p>
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br><br>
 
-<h3 align="center"> ![Profile Banner](https://media.giphy.com/media/a7jCRzDW5TH7vsIbYD/giphy.gif?cid=ecf05e47lmn4ypxutoj5qpv46r05chsgsjsmz3agvcouhb0q&ep=v1_gifs_search&rid=giphy.gif&ct=g) </h3>
+ ![Profile Banner](https://media.giphy.com/media/a7jCRzDW5TH7vsIbYD/giphy.gif?cid=ecf05e47lmn4ypxutoj5qpv46r05chsgsjsmz3agvcouhb0q&ep=v1_gifs_search&rid=giphy.gif&ct=g) 
 ---
 <h2 align="center">🔥 About👨‍💻Me 🔥 </h2>
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br><br>
 <p align="center">
     I am a passionate Software Engineer in Test with a strong focus on software quality through both automation and manual testing. As a Certified Ethical Hacker, I specialize in identifying and mitigating security vulnerabilities. Additionally, I am an active Bug Bounty Hunter, contributing to the security of various platforms by discovering and reporting vulnerabilities. My ultimate goal is to bridge the gap between software quality and cybersecurity, ensuring robust, secure, and resilient applications.
 </p>
 
 <p align="center">
-  <img align="right" style="width:16rem; height:auto" src="https://raw.githubusercontent.com/Elanza-48/Elanza-48/41a4790484e268102dfdab2b7c59d440d3ffafab/resources/img/geek.gif"/>
+  <img align="right" src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Right_Side.gif?raw=true" width="25%">
 </p>
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br><br>
    🛡️ Cybersecurity & Professional Expertise
 ✅ Completed SOC, Penetration Tester, and Security Engineer job paths on TryHackMe.
 
