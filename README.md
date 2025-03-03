@@ -5,9 +5,9 @@
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=FF6F61&center=true&vCenter=true&width=435&lines=Welcome+to+my+GitHub+Profile!;Let's+build+something+awesome+together!" alt="Typing SVG" />
 </p>
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br><br>!
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br><br>
 
-![profile baner](https://media.giphy.com/media/a7jCRzDW5TH7vsIbYD/giphy.gif?cid=ecf05e47lmn4ypxutoj5qpv46r05chsgsjsmz3agvcouhb0q&ep=v1_gifs_search&rid=giphy.gif&ct=g)  
+[profile baner](https://media.giphy.com/media/a7jCRzDW5TH7vsIbYD/giphy.gif?cid=ecf05e47lmn4ypxutoj5qpv46r05chsgsjsmz3agvcouhb0q&ep=v1_gifs_search&rid=giphy.gif&ct=g)  
 ---
 <h2 align="center">🔥 About👨‍💻Me 🔥 </h2>
 
@@ -44,11 +44,9 @@ implementations.
 -💬 Ask me about Software Testing, Ethical Hacking, CTFs, Bug Bounties, Threat Intelligence, and SOC operations.
 
 -⚡ Fun Fact: **I once found a critical vulnerability in a Fortune 500 company's system!** & Before diving into 
-cybersecurity, I managed an online gadget business, honing my client relations and time management skills—essential for success in fast-paced security environments!
+cybersecurity, I managed an online gadget business, honing my client relations and time management skills—essential for success in fast-paced security environments
 
----
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br><br>! 
-
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br><br>
 ## 🛠 Skills & Tools
 
 | **Languages** | **Frontend** | **Backend** | **Database** |
@@ -158,21 +156,8 @@ Collection of scripts and tools for efficient penetration testing, contributing 
 ### 📈 [Security Incident Analyzer](https://github.com/Rakib007007007/security-analyzer)
 Analyzes incident patterns and provides a streamlined dashboard for faster incident response and prevention.
 
- <summary> 😇 <b>My Github Stats</b>: </summary>
-
-
-<h2 align="center">📊 GitHub Stats</h2>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Rakib007007&show_icons=true&theme=radical" alt="Rakib007007's GitHub Stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Rakib007007&theme=radical" alt="Rakib007007's GitHub Streak" />
-</p>
-
-
 ---
-
-
-
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br><br>
 ---
 
 <h2 align="center">🔐 Bug Bounty Achievements</h2>
@@ -195,8 +180,14 @@ Analyzes incident patterns and provides a streamlined dashboard for faster incid
 
 <p align="center">
   <img src="https://img.shields.io/badge/Certified%20Ethical%20Hacker-FF6F61?style=for-the-badge&logo=ethicalhacking&logoColor=white" alt="Certified Ethical Hacker" />
-  <img src="https://img.shields.io/badge/Selenium%20Automation%20Testing-43B02A?style=for-the-badge&logo=selenium&logoColor=white" alt="Selenium Automation Testing" />
-  <img src="https://img.shields.io/badge/Cybersecurity%20for%20Businesses-006699?style=for-the-badge&logo=cybersecurity&logoColor=white" alt="Cybersecurity for Businesses" />
+  <img alt="Cybersecurity for Businesses" src="https://img.shields.io/badge/Cybersecurity%20for%20Businesses-006699?style=for-the-badge&logo=cybersecurity&logoColor=white" />
+  <img alt="Certified%20Web%20Application%20Pentester" src="https://img.shields.io/badge/Certified%20Web%20Application%20Pentester-0D3B66?style=for-the-badge&logo=appveyor&logoColor=white" />
+  <img alt="Competitive%20Pentesting" src="https://img.shields.io/badge/Competitive%20Pentesting-D32F2F?style=for-the-badge&logo=security&logoColor=white" />
+  <img alt="Certified%20Security%20Engineer" src="https://img.shields.io/badge/Certified%20Security%20Engineer-5C6BC0?style=for-the-badge&logo=security&logoColor=white" />
+  <img alt="DevSecOps%20Certified" src="https://img.shields.io/badge/DevSecOps%20Certified-004C97?style=for-the-badge&logo=docker&logoColor=white" />
+  <img alt="Red%20Teaming%20Certified" src="https://img.shields.io/badge/Red%20Teaming%20Certified-CC0000?style=for-the-badge&logo=fire&logoColor=white" />
+  <img alt="SOC%201%20Certified" src="https://img.shields.io/badge/SOC%201%20Certified-1A3E6D?style=for-the-badge&logo=security&logoColor=white" />
+  <img alt="SOC%202%20Certified" src="https://img.shields.io/badge/SOC%202%20Certified-3B8C6A?style=for-the-badge&logo=security&logoColor=white" />
 </p>
 
 ---
