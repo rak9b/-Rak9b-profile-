@@ -1,5 +1,5 @@
 
-# Hi there, I'm Md Rakibul Islam 👋
+# Hi there, I'm Md Rakib007007ul Islam 👋
 
 ![Profile Banner](https://media.giphy.com/media/a7jCRzDW5TH7vsIbYD/giphy.gif?cid=ecf05e47lmn4ypxutoj5qpv46r05chsgsjsmz3agvcouhb0q&ep=v1_gifs_search&rid=giphy.gif&ct=g)
 
@@ -42,19 +42,19 @@ Cyber Security Analyst specializing in **penetration testing** and **security ar
 
 ## 🚀 Featured Projects
 
-### 🔐 [Cybersecurity Framework for Cloud Apps](https://github.com/Rakib007/cybersecurity-framework)
+### 🔐 [Cybersecurity Framework for Cloud Apps](https://github.com/Rakib007007007/cybersecurity-framework)
 A robust security framework designed to protect cloud applications and prevent unauthorized access.
 
-### 🕵️‍♂️ [Penetration Testing Toolkit](https://github.com/Rakib007/penetration-toolkit)
+### 🕵️‍♂️ [Penetration Testing Toolkit](https://github.com/Rakib007007007/penetration-toolkit)
 Collection of scripts and tools for efficient penetration testing, contributing to a significant reduction in client vulnerabilities.
 
-### 📈 [Security Incident Analyzer](https://github.com/Rakib007/security-analyzer)
+### 📈 [Security Incident Analyzer](https://github.com/Rakib007007007/security-analyzer)
 Analyzes incident patterns and provides a streamlined dashboard for faster incident response and prevention.
 
  <summary> 😇 <b>My Github Stats</b>: </summary>
 
 <p align = "center">
-  <img src = "https://github-readme-stats.vercel.app/api?username=Nabil-Official&show_icons=true&theme=blue-green&layout=compact">
+  <img src = "https://github-readme-stats.vercel.app/api?username=Rakib007007-Official&show_icons=true&theme=blue-green&layout=compact">
  
 </p>
 
@@ -91,14 +91,14 @@ Analyzes incident patterns and provides a streamlined dashboard for faster incid
 <h2 align="center">📊 GitHub Stats</h2>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=fagun18&show_icons=true&theme=radical" alt="fagun18's GitHub Stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=fagun18&theme=radical" alt="fagun18's GitHub Streak" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Rakib007007&show_icons=true&theme=radical" alt="Rakib007007's GitHub Stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Rakib007007&theme=radical" alt="Rakib007007's GitHub Streak" />
 </p>
 
 <h2 align="center">💻 Top Languages</h2>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=fagun18&layout=compact&theme=radical" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rakib007007&layout=compact&theme=radical" alt="Top Languages" />
 </p>
 
 ---
@@ -252,13 +252,13 @@ Analyzes incident patterns and provides a streamlined dashboard for faster incid
 
 ---
 
-[![](https://visitcount.itsvg.in/api?id=fagun18&icon=5&color=0)](https://visitcount.itsvg.in)
+[![](https://visitcount.itsvg.in/api?id=Rakib007007&icon=5&color=0)](https://visitcount.itsvg.in)
 
 <h2 align="center">💰 You can help me by Donating</h2>
 
 <p align="center">
-  [![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/fagun18) 
-  [![Ko-Fi](https://img.shields.io/badge/Ko--fi-F16061?style=for-the-badge&logo=ko-fi&logoColor=white)](https://ko-fi.com/fagun18) 
+  [![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/Rakib007007) 
+  [![Ko-Fi](https://img.shields.io/badge/Ko--fi-F16061?style=for-the-badge&logo=ko-fi&logoColor=white)](https://ko-fi.com/Rakib007007) 
 </p>
 
 ---
@@ -272,7 +272,7 @@ Last Edited on: 08 May 2023
 ![snake gif](https://github.com/rak9b/rak9b/blob/output/snake.svg)  # <h1 align="center">Assalamu Alaikum, I'm Moinul Islam Umair! 👋</h1>
 
 <p align="center">
-  <a href="https://github.com/Umair505">
+  <a href="https://github.com/Rakib007007">
     <img src="https://readme-typing-svg.herokuapp.com?size=25&duration=4000&color=F7B93E&center=true&vCenter=true&width=500&lines=Full+Stack+Developer;Passionate+About+Web+Development;Building+Awesome+Projects" />
   </a>
 </p>
@@ -317,12 +317,12 @@ Last Edited on: 08 May 2023
 
 <p align="center">
   <a href="https://git.io/streak-stats">
-    <img src="https://nirzak-streak-stats.vercel.app?user=Umair505" />
+    <img src="https://nirzak-streak-stats.vercel.app?user=Rakib007007" />
   </a>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Umair505&hide_border=false&include_all_commits=true&count_private=true&layout=compact" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rakib007007&hide_border=false&include_all_commits=true&count_private=true&layout=compact" />
 </p>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br><br>
@@ -332,7 +332,7 @@ Last Edited on: 08 May 2023
   <h1>👀 Visitor Count</h1>
   
   <p>
-    <img src="https://profile-counter.glitch.me/Umair505/count.svg" alt="Visitor Count" />
+    <img src="https://profile-counter.glitch.me/Rakib007007/count.svg" alt="Visitor Count" />
   </p>
 
   <p>
@@ -367,22 +367,13 @@ Nice to meet you, <br>
 <img src="https://img.shields.io/badge/-I_am-black?style=for-the-badge&logoColor=ffffff&color=181717" alt="I am" />
 <img src="https://img.shields.io/badge/-Shah_Jabir-black?style=for-the-badge&logoColor=ffffff&color=181717" alt="Shah Jabir Taqi" />
 
-## Who Am I? 🤠
 
-- 🤓 Self-taught Developer
-- 👩‍💻 Working on Some Shitty Projects
-- 📝 Writing Code
-- 🎯 Goal: To be a NASA Hacker 😅😅😅
-- 💌 Fun Facts :
-    - I learn, read & practice 😅
-    - Tea, Coffee Lover ☕
-    - Kodlamayı seviyorum!! ( Ahh, I am Learning Turkie right now )
 
 <div align="center">
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-<h3 align="center">My Weapons 🌟</h3><br>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ShahJabir&theme=react" /> <br>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rakib007&theme=react" /> <br>
 
 </div>
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><h3 align="center">Other Shields 🛡</h3><br>
@@ -391,34 +382,21 @@ Nice to meet you, <br>
 <img src="https://img.shields.io/badge/-Assembly-black?style=for-the-badge&logoColor=ffffff&logo=assemblyscript&color=007AAC" alt="AssemblyScript"/></a>
 
 <a href="https://webassembly.org">
-<img src="https://img.shields.io/badge/-Web_Assembly-black?style=for-the-badge&logoColor=ffffff&logo=webassembly&color=654FF0" alt="Web Assembly"/></a>
-
-<a href="https://www.arduino.cc">
-<img src="https://img.shields.io/badge/-Arduino-black?style=for-the-badge&logoColor=ffffff&logo=arduino&color=00878F" alt="Arduino"/></a>
-
-<a href="https://developer.android.com">
-<img src="https://img.shields.io/badge/-Android_Development-black?style=for-the-badge&logoColor=34A853&logo=android&color=25396b" alt="Android Development"/></a>
-
-<a href="https://www.rust-lang.org">
-<img src="https://img.shields.io/badge/-Rust_Language-black?style=for-the-badge&logoColor=FFFFFF&logo=rust&color=000000" alt="RustLang"/></a>
-
-<a href="https://www.rust-lang.org">
-<img src="https://img.shields.io/badge/-GO_Language-black?style=for-the-badge&logoColor=FFFFFF&logo=go&color=00ADD8" alt="RustLang"/></a>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><h3 align="center">Github Status 🏆</h3><br>
 
 <div align="center">
-<a href="https://github.com/ShahJabir">
-<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=ShahJabir&theme=2077" height="180em" />
-<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=ShahJabir&theme=2077&utcOffset=6" height="180em" />
-<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ShahJabir&theme=2077" height="180em" />
+<a href="https://github.com/Rakib007">
+<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Rakib007&theme=2077" height="180em" />
+<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=MD.Rakibu Islam&theme=2077&utcOffset=6" height="180em" />
+<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Rakib007&theme=2077" height="180em" />
 </div>
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><h2 align="center">⚡Activity Graph:</h2>
-<img align="center" src="https://github-readme-activity-graph.vercel.app/graph?username=ShahJabir&theme=react-dark"/>
+<img align="center" src="https://github-readme-activity-graph.vercel.app/graph?username=Rakib007&theme=react-dark"/>
 <div align="center">
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><h3 align="center">🐍 Contribution Snake</h3><br>
 
-<img src="https://raw.githubusercontent.com/ShahJabir/ShahJabir/output/snake.svg" alt="Snake animation" />
+<img src="https://raw.githubusercontent.com/Rakib007/Rakib007/output/snake.svg" alt="Snake animation" />
 </div>
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><h3 align="center">Wanna Know me More?</h3><br>
 <p align="center">
@@ -437,7 +415,7 @@ Nice to meet you, <br>
 </a>
 </p>
 
-<p align="center"><img src="https://visitor-badge.laobi.icu/badge?page_id=ShahJabir.visitor-badge" alt="ShahJabir :: Visitor's Count" /></p>
+<p align="center"><img src="https://visitor-badge.laobi.icu/badge?page_id=Rakib007.visitor-badge" alt="Rakib007 :: Visitor's Count" /></p>
 <img src="https://raw.githubusercontent.com/Trilokia/Trilokia/379277808c61ef204768a61bbc5d25bc7798ccf1/bottom_header.svg" />
 
 
