@@ -6,9 +6,9 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=FF6F61&center=true&vCenter=true&width=435&lines=Welcome+to+my+GitHub+Profile!;Let's+build+something+awesome+together!" alt="Typing SVG" />
 </p>
 
-
+<p align="center">
 ![Profile Banner](https://media.giphy.com/media/a7jCRzDW5TH7vsIbYD/giphy.gif?cid=ecf05e47lmn4ypxutoj5qpv46r05chsgsjsmz3agvcouhb0q&ep=v1_gifs_search&rid=giphy.gif&ct=g)
-
+</p>
 ---
 
 Cyber Security Analyst specializing in **penetration testing** and **security architecture** with a dedication to protecting systems and data. Here, you'll find projects that span ethical hacking, threat analysis, and cutting-edge security solutions. I’m always eager to learn and collaborate with clients worldwide to enhance digital defenses.
