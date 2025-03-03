@@ -115,8 +115,7 @@ cybersecurity, I managed an online gadget business, honing my client relations a
 ![ThreatConnect](https://img.shields.io/badge/-ThreatConnect-darkblue?style=for-the-badge&logo=threatconnect&logoColor=white)
 
 
--
-<h3 align="center">Security Testing</h3>
+<h3 align="left">Security Testing</h3>
 <p align="center">
   <a href="https://portswigger.net/burp" target="_blank">
     <img src="https://img.shields.io/badge/Burp%20Suite-%23000000.svg?style=for-the-badge&logo=PortSwigger&logoColor=orange" alt="Burp Suite"/>
@@ -173,37 +172,6 @@ Analyzes incident patterns and provides a streamlined dashboard for faster incid
 ---
 
 
-
-
-<h2 align="center">💻 Top Languages</h2>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rakib007007&layout=compact&theme=radical" alt="Top Languages" />
-</p>
-
----
-
-
-
-
-<h3 align="center">Automation Testing</h3>
-<p align="center">
-  <a href="https://www.jetbrains.com/aqua/" target="_blank">
-    <img src="https://img.shields.io/badge/JetBrains%20Aqua-000000.svg?style=for-the-badge&logo=JetBrains&logoColor=white" alt="JetBrains Aqua"/>
-  </a>
-  <a href="https://www.selenium.dev/" target="_blank">
-    <img src="https://img.shields.io/badge/Selenium-43B02A.svg?style=for-the-badge&logo=Selenium&logoColor=white" alt="Selenium"/>
-  </a>
-  <a href="https://playwright.dev" target="_blank">
-    <img src="https://img.shields.io/badge/Playwright-004028.svg?style=for-the-badge&logo=Microsoft&logoColor=white" alt="Playwright"/>
-  </a>
-  <a href="https://cucumber.io/" target="_blank"> 
-    <img src="https://img.shields.io/badge/Cucumber-23D96C.svg?style=for-the-badge&logo=Cucumber&logoColor=white" alt="Cucumber"/> 
-  </a>
-  <a href="https://www.selenium.dev/documentation/en/webdriver/" target="_blank">
-    <img src="https://img.shields.io/badge/Python--Selenium-4B8BBE.svg?style=for-the-badge&logo=Python&logoColor=white" alt="Python-Selenium"/> 
-  </a>
-</p>
 
 ---
 
