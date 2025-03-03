@@ -36,16 +36,11 @@ implementations.
 🌱 Learning & Collaboration
 
 -💡 Constantly exploring advanced security frameworks, exploit development, and malware analysis. 
-
 -🤝 Excited to collaborate on **AI-Driven Security Testing** ,**open-source security** projects and contribute to the cybersecurity community.
-
 -👨‍💻 All of my projects are available [@Md.Rakibul Islam](https://github.com/rak9b).
-
 -💬 Ask me about Software Testing, Ethical Hacking, CTFs, Bug Bounties, Threat Intelligence, and SOC operations.
-
 -⚡ Fun Fact: **I once found a critical vulnerability in a Fortune 500 company's system!** Before diving into 
 cybersecurity, I managed an online gadget business, honing my client relations and time management skills—essential for success in fast-paced security environments!
-
 
 ---
 
@@ -62,6 +57,12 @@ cybersecurity, I managed an online gadget business, honing my client relations a
 ![Splunk](https://img.shields.io/badge/-Splunk-orange?style=for-the-badge&logo=splunk&logoColor=white)
 ![OpenVAS](https://img.shields.io/badge/-OpenVAS-darkgreen?style=for-the-badge)
 ![Nmap](https://img.shields.io/badge/-Nmap-lightblue?style=for-the-badge&logo=nmap&logoColor=white)
+
+## 🚀 Tech Stacks
+
+| **Languages** | **Frontend** | **Backend** | **Database** |
+|--------------|-------------|------------|------------|
+| <img src="https://skillicons.dev/icons?i=python,javascript,cpp,java" alt="languages" /> | <img src="https://skillicons.dev/icons?i=html,css,react,tailwind,bootstrap" alt="frontend" /> | <img src="https://skillicons.dev/icons?i=django,docker" alt="backend" /> | <img src="https://skillicons.dev/icons?i=mysql,postgres,sqlite" alt="database" /> |
 
 ### Collaboration & Productivity Tools
 ![GitHub](https://img.shields.io/badge/-GitHub-black?style=for-the-badge&logo=github&logoColor=white)
