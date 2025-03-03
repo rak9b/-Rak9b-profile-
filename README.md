@@ -83,13 +83,37 @@ cybersecurity, I managed an online gadget business, honing my client relations a
 
 <div align="center">
 -
-### Cybersecurity Tools
+# Security Tools & Badges
+
+## SOC Analyst
+![Splunk](https://img.shields.io/badge/-Splunk-orange?style=for-the-badge&logo=splunk&logoColor=white)
+![Snort](https://img.shields.io/badge/-Snort-purple?style=for-the-badge&logo=snort&logoColor=white)
+![Suricata](https://img.shields.io/badge/-Suricata-blue?style=for-the-badge&logo=suricata&logoColor=white)
+![ElasticSearch](https://img.shields.io/badge/-ElasticSearch-darkgreen?style=for-the-badge&logo=elasticsearch&logoColor=white)
+![Graylog](https://img.shields.io/badge/-Graylog-darkgray?style=for-the-badge&logo=graylog&logoColor=white)
+
+## Penetration Tester
 ![Kali Linux](https://img.shields.io/badge/-Kali_Linux-blue?style=for-the-badge&logo=kali-linux&logoColor=white)
 ![Metasploit](https://img.shields.io/badge/-Metasploit-darkgreen?style=for-the-badge&logo=metasploit&logoColor=white)
-![Snort](https://img.shields.io/badge/-Snort-purple?style=for-the-badge&logo=snort&logoColor=white)
-![Splunk](https://img.shields.io/badge/-Splunk-orange?style=for-the-badge&logo=splunk&logoColor=white)
-![OpenVAS](https://img.shields.io/badge/-OpenVAS-darkgreen?style=for-the-badge)
 ![Nmap](https://img.shields.io/badge/-Nmap-lightblue?style=for-the-badge&logo=nmap&logoColor=white)
+![Burp Suite](https://img.shields.io/badge/-Burp_Suite-purple?style=for-the-badge&logo=burpsuite&logoColor=white)
+![Wireshark](https://img.shields.io/badge/-Wireshark-green?style=for-the-badge&logo=wireshark&logoColor=white)
+![Aircrack-ng](https://img.shields.io/badge/-Aircrack--ng-darkblue?style=for-the-badge&logo=aircrack-ng&logoColor=white)
+
+## Security Engineer
+![OpenVAS](https://img.shields.io/badge/-OpenVAS-darkgreen?style=for-the-badge)
+![Nikto](https://img.shields.io/badge/-Nikto-blue?style=for-the-badge&logo=nikto&logoColor=white)
+![OWASP ZAP](https://img.shields.io/badge/-OWASP_ZAP-yellow?style=for-the-badge&logo=owasp&logoColor=white)
+![Shodan](https://img.shields.io/badge/-Shodan-lightblue?style=for-the-badge&logo=shodan&logoColor=white)
+![Terraform](https://img.shields.io/badge/-Terraform-7B42BC?style=for-the-badge&logo=terraform&logoColor=white)
+![Docker](https://img.shields.io/badge/-Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+
+## Additional Security Tools
+![Hashcat](https://img.shields.io/badge/-Hashcat-blue?style=for-the-badge&logo=hashcat&logoColor=white)
+![John the Ripper](https://img.shields.io/badge/-John_the_Ripper-lightgreen?style=for-the-badge&logo=john-the-ripper&logoColor=white)
+![Cortex XSOAR](https://img.shields.io/badge/-Cortex_XSOAR-blue?style=for-the-badge&logo=demisto&logoColor=white)
+![ThreatConnect](https://img.shields.io/badge/-ThreatConnect-darkblue?style=for-the-badge&logo=threatconnect&logoColor=white)
+
 
 -
 <h3 align="center">Security Testing</h3>
