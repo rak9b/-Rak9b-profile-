@@ -5,12 +5,12 @@
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=FF6F61&center=true&vCenter=true&width=435&lines=Welcome+to+my+GitHub+Profile!;Let's+build+something+awesome+together!" alt="Typing SVG" />
 </p>
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br><br>
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br><br>!
 
-  <img align="center" style="width:16rem; src= (https://media.giphy.com/media/a7jCRzDW5TH7vsIbYD/giphy.gif?cid=ecf05e47lmn4ypxutoj5qpv46r05chsgsjsmz3agvcouhb0q&ep=v1_gifs_search&rid=giphy.gif&ct=g)  width="250%">
+![profile baner](https://media.giphy.com/media/a7jCRzDW5TH7vsIbYD/giphy.gif?cid=ecf05e47lmn4ypxutoj5qpv46r05chsgsjsmz3agvcouhb0q&ep=v1_gifs_search&rid=giphy.gif&ct=g)  
 ---
 <h2 align="center">🔥 About👨‍💻Me 🔥 </h2>
---
+
 <p align="center">
     I am a passionate Software Engineer in Test with a strong focus on software quality through both automation and manual testing. As a Certified Ethical Hacker, I specialize in identifying and mitigating security vulnerabilities. Additionally, I am an active Bug Bounty Hunter, contributing to the security of various platforms by discovering and reporting vulnerabilities. My ultimate goal is to bridge the gap between software quality and cybersecurity, ensuring robust, secure, and resilient applications.
 </p>
@@ -47,12 +47,41 @@ implementations.
 cybersecurity, I managed an online gadget business, honing my client relations and time management skills—essential for success in fast-paced security environments!
 
 ---
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br><br>! 
 
 ## 🛠 Skills & Tools
---
+
 | **Languages** | **Frontend** | **Backend** | **Database** |
 |--------------|-------------|------------|------------|
 | <img src="https://skillicons.dev/icons?i=python,javascript,c,java,bash,TypeScript" alt="languages" /> | <img src="https://skillicons.dev/icons?i=html,css,react,tailwind,bootstrap" alt="frontend" /> | <img src="https://skillicons.dev/icons?i=django,docker" alt="backend" /> | <img src="https://skillicons.dev/icons?i=mysql,postgres,sqlite" alt="database" /> |
+
+
+## 🔹 Tools I Use
+
+| **Tools** |
+|-----------|
+| <img src="https://skillicons.dev/icons?i=git,github,postman,vscode,figma,netlify" alt="tools" /> |
+
+
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br><br>
+
+## <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExYzFhYzJkMmQ2MWQ3ZGY3MDhjZTE3MDI2Mzk3NzE1OWQyZTRlMmYwMCZjdD1z/iY8CRBdQXODJSCERIr/giphy.gif" width=5% valign="bottom"> Github Stats
+
+<p align="center">
+  <a href="https://git.io/streak-stats">
+    <img src="https://nirzak-streak-stats.vercel.app?user=Umair505" />
+  </a>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Umair505&hide_border=false&include_all_commits=true&count_private=true&layout=compact" />
+</p>
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br><br>
+
+
+<div align="center">
 -
 ### Cybersecurity Tools
 ![Kali Linux](https://img.shields.io/badge/-Kali_Linux-blue?style=for-the-badge&logo=kali-linux&logoColor=white)
@@ -62,6 +91,7 @@ cybersecurity, I managed an online gadget business, honing my client relations a
 ![OpenVAS](https://img.shields.io/badge/-OpenVAS-darkgreen?style=for-the-badge)
 ![Nmap](https://img.shields.io/badge/-Nmap-lightblue?style=for-the-badge&logo=nmap&logoColor=white)
 
+-
 <h3 align="center">Security Testing</h3>
 <p align="center">
   <a href="https://portswigger.net/burp" target="_blank">
