@@ -2,16 +2,16 @@
 # <h1 align="center">Hi, I'm  Md.Rakibul Islam  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"></h1>
 <h3 align="center">Software Engineer in Test | Web Devoloper | Certified Ethical Hacker | Bug Bounty Hunter</h3>
 
+
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=FF6F61&center=true&vCenter=true&width=435&lines=Welcome+to+my+GitHub+Profile!;Let's+build+something+awesome+together!" alt="Typing SVG" />
 </p>
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br><br>
 
-
-![Profile Banner](https://media.giphy.com/media/a7jCRzDW5TH7vsIbYD/giphy.gif?cid=ecf05e47lmn4ypxutoj5qpv46r05chsgsjsmz3agvcouhb0q&ep=v1_gifs_search&rid=giphy.gif&ct=g)
-
+<h3 align="center"> ![Profile Banner](https://media.giphy.com/media/a7jCRzDW5TH7vsIbYD/giphy.gif?cid=ecf05e47lmn4ypxutoj5qpv46r05chsgsjsmz3agvcouhb0q&ep=v1_gifs_search&rid=giphy.gif&ct=g) </h3>
 ---
 <h2 align="center">🔥 About👨‍💻Me 🔥 </h2>
-
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br><br>
 <p align="center">
     I am a passionate Software Engineer in Test with a strong focus on software quality through both automation and manual testing. As a Certified Ethical Hacker, I specialize in identifying and mitigating security vulnerabilities. Additionally, I am an active Bug Bounty Hunter, contributing to the security of various platforms by discovering and reporting vulnerabilities. My ultimate goal is to bridge the gap between software quality and cybersecurity, ensuring robust, secure, and resilient applications.
 </p>
@@ -20,6 +20,7 @@
   <img align="right" style="width:16rem; height:auto" src="https://raw.githubusercontent.com/Elanza-48/Elanza-48/41a4790484e268102dfdab2b7c59d440d3ffafab/resources/img/geek.gif"/>
 </p>
 
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br><br>
    🛡️ Cybersecurity & Professional Expertise
 ✅ Completed SOC, Penetration Tester, and Security Engineer job paths on TryHackMe.
 
@@ -46,9 +47,14 @@ cybersecurity, I managed an online gadget business, honing my client relations a
 
 ## 🛠 Skills & Tools
 
-### Programming Languages & Frameworks
-![Python](https://img.shields.io/badge/-Python-blue?style=for-the-badge&logo=python&logoColor=white)
-![Bash](https://img.shields.io/badge/-Bash-lightgrey?style=for-the-badge&logo=gnu-bash&logoColor=white)
+
+
+
+## 🛠️ Tech Stacks
+
+| **Languages** | **Frontend** | **Backend** | **Database** |
+|--------------|-------------|------------|------------|
+| <img src="https://skillicons.dev/icons?i=python,javascript,c,java,bash,TypeScript" alt="languages" /> | <img src="https://skillicons.dev/icons?i=html,css,react,tailwind,bootstrap" alt="frontend" /> | <img src="https://skillicons.dev/icons?i=django,docker" alt="backend" /> | <img src="https://skillicons.dev/icons?i=mysql,postgres,sqlite" alt="database" /> |
 
 ### Cybersecurity Tools
 ![Kali Linux](https://img.shields.io/badge/-Kali_Linux-blue?style=for-the-badge&logo=kali-linux&logoColor=white)
@@ -58,11 +64,31 @@ cybersecurity, I managed an online gadget business, honing my client relations a
 ![OpenVAS](https://img.shields.io/badge/-OpenVAS-darkgreen?style=for-the-badge)
 ![Nmap](https://img.shields.io/badge/-Nmap-lightblue?style=for-the-badge&logo=nmap&logoColor=white)
 
-## 🚀 Tech Stacks
+<h3 align="center">Security Testing</h3>
+<p align="center">
+  <a href="https://portswigger.net/burp" target="_blank">
+    <img src="https://img.shields.io/badge/Burp%20Suite-%23000000.svg?style=for-the-badge&logo=PortSwigger&logoColor=orange" alt="Burp Suite"/>
+  </a>
+  <a href="https://owasp.org/www-project-zap/" target="_blank">
+    <img src="https://img.shields.io/badge/OWASP%20ZAP-%23F5792A.svg?style=for-the-badge&logo=OWASP&logoColor=white" alt="OWASP ZAP"/>
+  </a>
+  <a href="https://www.kali.org/docs/pentesting/" target="_blank">
+    <img src="https://img.shields.io/badge/Penetration%20Testing-557C94.svg?style=for-the-badge&logo=Kali%20Linux&logoColor=white" alt="Penetration Testing"/>
+  </a>
+  <a href="https://github.com/sqlmapproject/sqlmap" target="_blank"> 
+    <img src="https://img.shields.io/badge/SQL%20Map-E84142.svg?style=for-the-badge&logo=GitHub&logoColor=white" alt="SQL Map"/>
+  </a>
+  <a href="https://owasp.org/www-community/attacks/SQL_Injection" target="_blank">
+    <img src="https://img.shields.io/badge/SQL%20Injection-1572B6.svg?style=for-the-badge&logo=OWASP&logoColor=white" alt="SQL Injection"/>
+  </a>
+  <a href="https://github.com/Emoe/pentest-tools/blob/master/xsstrike/README.md" target="_blank">
+    <img src="https://img.shields.io/badge/XSStrike-3b5998.svg?style=for-the-badge&logo=GitHub&logoColor=white" alt="XSStrike"/>
+  </a>
+  <a href="https://dalfox.readthedocs.io/en/latest/" target="_blank">
+    <img src="https://img.shields.io/badge/Dalfox-F477C7.svg?style=for-the-badge&logo=GitHub&logoColor=white" alt="Dalfox"/>
+  </a>
+</p>
 
-| **Languages** | **Frontend** | **Backend** | **Database** |
-|--------------|-------------|------------|------------|
-| <img src="https://skillicons.dev/icons?i=python,javascript,cpp,java,bash,typscript" alt="languages" /> | <img src="https://skillicons.dev/icons?i=html,css,react,tailwind,bootstrap" alt="frontend" /> | <img src="https://skillicons.dev/icons?i=django,docker" alt="backend" /> | <img src="https://skillicons.dev/icons?i=mysql,postgres,sqlite" alt="database" /> |
 
 ### Collaboration & Productivity Tools
 ![GitHub](https://img.shields.io/badge/-GitHub-black?style=for-the-badge&logo=github&logoColor=white)
@@ -105,57 +131,8 @@ Analyzes incident patterns and provides a streamlined dashboard for faster incid
 
 ---
 
-<h2 align="center">🛠️ Tech Stack</h2>
 
-<h3 align="center">Languages</h3>
-<p align="center">
-  <a href="https://www.cprogramming.com/" target="_blank"> 
-    <img src="https://img.shields.io/badge/C%20Programming-A8B9CC.svg?style=for-the-badge&logo=c&logoColor=white" alt="C"/>
-  </a>
-  <a href="https://www.python.org" target="_blank"> 
-    <img src="https://img.shields.io/badge/Python-007396.svg?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
-  </a>
-  <a href="https://www.java.com" target="_blank"> 
-    <img src="https://img.shields.io/badge/Java-007396.svg?style=for-the-badge&logo=java&logoColor=white" alt="Java"/>
-  </a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> 
-    <img src="https://img.shields.io/badge/JavaScript-F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript"/>
-  </a>
-  <a href="https://www.w3.org/html/" target="_blank"> 
-    <img src="https://img.shields.io/badge/HTML-E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5"/>
-  </a>
-  <a href="https://www.w3schools.com/css/" target="_blank">
-    <img src="https://img.shields.io/badge/CSS-1572B6.svg?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3"/>
-  </a>
-  <a href="https://www.typescriptlang.org/" target="_blank"> 
-    <img src="https://img.shields.io/badge/TypeScript-3178C6.svg?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript"/>
-  </a>
-</p>
 
-<h3 align="center">Security Testing</h3>
-<p align="center">
-  <a href="https://portswigger.net/burp" target="_blank">
-    <img src="https://img.shields.io/badge/Burp%20Suite-%23000000.svg?style=for-the-badge&logo=PortSwigger&logoColor=orange" alt="Burp Suite"/>
-  </a>
-  <a href="https://owasp.org/www-project-zap/" target="_blank">
-    <img src="https://img.shields.io/badge/OWASP%20ZAP-%23F5792A.svg?style=for-the-badge&logo=OWASP&logoColor=white" alt="OWASP ZAP"/>
-  </a>
-  <a href="https://www.kali.org/docs/pentesting/" target="_blank">
-    <img src="https://img.shields.io/badge/Penetration%20Testing-557C94.svg?style=for-the-badge&logo=Kali%20Linux&logoColor=white" alt="Penetration Testing"/>
-  </a>
-  <a href="https://github.com/sqlmapproject/sqlmap" target="_blank"> 
-    <img src="https://img.shields.io/badge/SQL%20Map-E84142.svg?style=for-the-badge&logo=GitHub&logoColor=white" alt="SQL Map"/>
-  </a>
-  <a href="https://owasp.org/www-community/attacks/SQL_Injection" target="_blank">
-    <img src="https://img.shields.io/badge/SQL%20Injection-1572B6.svg?style=for-the-badge&logo=OWASP&logoColor=white" alt="SQL Injection"/>
-  </a>
-  <a href="https://github.com/Emoe/pentest-tools/blob/master/xsstrike/README.md" target="_blank">
-    <img src="https://img.shields.io/badge/XSStrike-3b5998.svg?style=for-the-badge&logo=GitHub&logoColor=white" alt="XSStrike"/>
-  </a>
-  <a href="https://dalfox.readthedocs.io/en/latest/" target="_blank">
-    <img src="https://img.shields.io/badge/Dalfox-F477C7.svg?style=for-the-badge&logo=GitHub&logoColor=white" alt="Dalfox"/>
-  </a>
-</p>
 
 <h3 align="center">Automation Testing</h3>
 <p align="center">
