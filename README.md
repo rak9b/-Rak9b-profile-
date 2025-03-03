@@ -2,22 +2,23 @@
 # <h1 align="center">Hi, I'm  Md.Rakibul Islam  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"></h1>
 <h3 align="center">Software Engineer in Test | Web Devoloper | Certified Ethical Hacker | Bug Bounty Hunter</h3>
 
-
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=FF6F61&center=true&vCenter=true&width=435&lines=Welcome+to+my+GitHub+Profile!;Let's+build+something+awesome+together!" alt="Typing SVG" />
 </p>
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br><br>
 
- ![Profile Banner](https://media.giphy.com/media/a7jCRzDW5TH7vsIbYD/giphy.gif?cid=ecf05e47lmn4ypxutoj5qpv46r05chsgsjsmz3agvcouhb0q&ep=v1_gifs_search&rid=giphy.gif&ct=g) 
+  <img align="center" style="width:16rem; src= (https://media.giphy.com/media/a7jCRzDW5TH7vsIbYD/giphy.gif?cid=ecf05e47lmn4ypxutoj5qpv46r05chsgsjsmz3agvcouhb0q&ep=v1_gifs_search&rid=giphy.gif&ct=g)  width="250%">
 ---
 <h2 align="center">🔥 About👨‍💻Me 🔥 </h2>
+--
 <p align="center">
     I am a passionate Software Engineer in Test with a strong focus on software quality through both automation and manual testing. As a Certified Ethical Hacker, I specialize in identifying and mitigating security vulnerabilities. Additionally, I am an active Bug Bounty Hunter, contributing to the security of various platforms by discovering and reporting vulnerabilities. My ultimate goal is to bridge the gap between software quality and cybersecurity, ensuring robust, secure, and resilient applications.
 </p>
 
 <p align="center">
-  <img align="right" src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Right_Side.gif?raw=true" width="25%">
+  <img align="right" style="width:16rem; height:auto" src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Right_Side.gif?raw=true" width="25%">
 </p>
+
 
    🛡️ Cybersecurity & Professional Expertise
 ✅ Completed SOC, Penetration Tester, and Security Engineer job paths on TryHackMe.
@@ -35,25 +36,24 @@ implementations.
 🌱 Learning & Collaboration
 
 -💡 Constantly exploring advanced security frameworks, exploit development, and malware analysis. 
+
 -🤝 Excited to collaborate on **AI-Driven Security Testing** ,**open-source security** projects and contribute to the cybersecurity community.
+
 -👨‍💻 All of my projects are available [@Md.Rakibul Islam](https://github.com/rak9b).
+
 -💬 Ask me about Software Testing, Ethical Hacking, CTFs, Bug Bounties, Threat Intelligence, and SOC operations.
--⚡ Fun Fact: **I once found a critical vulnerability in a Fortune 500 company's system!** Before diving into 
+
+-⚡ Fun Fact: **I once found a critical vulnerability in a Fortune 500 company's system!** & Before diving into 
 cybersecurity, I managed an online gadget business, honing my client relations and time management skills—essential for success in fast-paced security environments!
 
 ---
 
 ## 🛠 Skills & Tools
-
-
-
-
-## 🛠️ Tech Stacks
-
+--
 | **Languages** | **Frontend** | **Backend** | **Database** |
 |--------------|-------------|------------|------------|
 | <img src="https://skillicons.dev/icons?i=python,javascript,c,java,bash,TypeScript" alt="languages" /> | <img src="https://skillicons.dev/icons?i=html,css,react,tailwind,bootstrap" alt="frontend" /> | <img src="https://skillicons.dev/icons?i=django,docker" alt="backend" /> | <img src="https://skillicons.dev/icons?i=mysql,postgres,sqlite" alt="database" /> |
-
+-
 ### Cybersecurity Tools
 ![Kali Linux](https://img.shields.io/badge/-Kali_Linux-blue?style=for-the-badge&logo=kali-linux&logoColor=white)
 ![Metasploit](https://img.shields.io/badge/-Metasploit-darkgreen?style=for-the-badge&logo=metasploit&logoColor=white)
