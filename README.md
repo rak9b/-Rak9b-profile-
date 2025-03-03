@@ -81,9 +81,9 @@ cybersecurity, I managed an online gadget business, honing my client relations a
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br><br>
 
 
-<div align="center">
--
-# Security Tools & Badges
+<div align="left">
+
+#Security Tools & Badges
 
 ## SOC Analyst
 ![Splunk](https://img.shields.io/badge/-Splunk-orange?style=for-the-badge&logo=splunk&logoColor=white)
